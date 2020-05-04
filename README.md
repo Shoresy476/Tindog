@@ -1,2 +1,1 @@
-# tindog
-tindog responsive site
+TinDog Starting Files
